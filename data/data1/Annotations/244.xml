@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>244.jpg</filename>
+	<path>/home/robint01/yolov5/data/data1/images/244.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>electric fan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>354</xmin>
+			<ymin>100</ymin>
+			<xmax>649</xmax>
+			<ymax>718</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>toy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>952</xmin>
+			<ymin>376</ymin>
+			<xmax>1160</xmax>
+			<ymax>575</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>349.jpg</filename>
+	<path>/home/robint01/yolov5/data/data_weed&amp;corn/images/349.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>weed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>307</xmin>
+			<ymin>218</ymin>
+			<xmax>453</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

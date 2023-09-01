@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>265.jpg</filename>
+	<path>/home/robint01/yolov5/data/data1/images/265.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>disinfectant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>592</xmin>
+			<ymin>292</ymin>
+			<xmax>1069</xmax>
+			<ymax>452</ymax>
+		</bndbox>
+	</object>
+</annotation>

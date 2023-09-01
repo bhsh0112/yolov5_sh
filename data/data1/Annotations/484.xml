@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>484.jpg</filename>
+	<path>/home/robint01/yolov5/data/data1/images/484.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>electric fan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>771</xmin>
+			<ymin>181</ymin>
+			<xmax>1099</xmax>
+			<ymax>900</ymax>
+		</bndbox>
+	</object>
+</annotation>

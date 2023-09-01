@@ -1,0 +1,6 @@
+训练自标注数据集：
+    参照data/data1中的文件格式，具体流程笔记在笔记本ubuntu系统的robint文件夹下
+训练仅有图片和txt文件的数据集：
+    参照data、data_weed的文件格式，以及yolov5文件夹下makeTxt_for_txt.py和voc_label_for_text.py（按顺序执行）
+
+两者均需记得修改utils/dataloaders.py中433行的路径

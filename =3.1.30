@@ -1,0 +1,5 @@
+Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
+Requirement already satisfied: gitpython in /home/robint01/miniforge3/envs/yolov5/lib/python3.6/site-packages (3.1.18)
+Requirement already satisfied: typing-extensions>=3.7.4.0 in /home/robint01/.local/lib/python3.6/site-packages (from gitpython) (4.1.1)
+Requirement already satisfied: gitdb<5,>=4.0.1 in /home/robint01/miniforge3/envs/yolov5/lib/python3.6/site-packages (from gitpython) (4.0.9)
+Requirement already satisfied: smmap<6,>=3.0.1 in /home/robint01/miniforge3/envs/yolov5/lib/python3.6/site-packages (from gitdb<5,>=4.0.1->gitpython) (5.0.0)

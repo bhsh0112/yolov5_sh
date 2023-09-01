@@ -1,0 +1,13 @@
+/home/robint01/yolov5/data/weed-data/images/agri_0_7209.jpg
+/home/robint01/yolov5/data/weed-data/images/agri_0_4947.jpg
+/home/robint01/yolov5/data/weed-data/images/agri_0_4436.jpg
+/home/robint01/yolov5/data/weed-data/images/agri_0_823.jpg
+/home/robint01/yolov5/data/weed-data/images/agri_0_1868.jpg
+/home/robint01/yolov5/data/weed-data/images/agri_0_5145.jpg
+/home/robint01/yolov5/data/weed-data/images/agri_0_7603.jpg
+/home/robint01/yolov5/data/weed-data/images/agri_0_718.jpg
+/home/robint01/yolov5/data/weed-data/images/agri_0_1851.jpg
+/home/robint01/yolov5/data/weed-data/images/agri_0_2649.jpg
+/home/robint01/yolov5/data/weed-data/images/agri_0_1146.jpg
+/home/robint01/yolov5/data/weed-data/images/agri_0_3797.jpg
+/home/robint01/yolov5/data/weed-data/images/agri_0_4116.jpg

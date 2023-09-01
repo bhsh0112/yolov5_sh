@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>419.jpg</filename>
+	<path>/home/robint01/yolov5/data/data1/images/419.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>medicine bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>992</xmin>
+			<ymin>391</ymin>
+			<xmax>1314</xmax>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+</annotation>

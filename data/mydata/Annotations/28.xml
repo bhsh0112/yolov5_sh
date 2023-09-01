@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>28.jpeg</filename>
+	<path>/home/robint01/yolov5/data/mydata/images/28.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3472</width>
+		<height>4624</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>380</xmin>
+			<ymin>905</ymin>
+			<xmax>2519</xmax>
+			<ymax>3366</ymax>
+		</bndbox>
+	</object>
+</annotation>

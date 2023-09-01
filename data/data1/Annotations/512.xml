@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>512.jpg</filename>
+	<path>/home/robint01/yolov5/data/data1/images/512.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>box</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>879</xmin>
+			<ymin>462</ymin>
+			<xmax>1159</xmax>
+			<ymax>934</ymax>
+		</bndbox>
+	</object>
+</annotation>

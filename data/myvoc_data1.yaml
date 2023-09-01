@@ -1,0 +1,8 @@
+train: data/data1/dataSet_path/train.txt
+val: data/data1/dataSet_path/val.txt
+
+#number of classes
+nc: 5
+
+#class names
+names: ["toy","box","medicine bottle","electric fan","disinfectant"]

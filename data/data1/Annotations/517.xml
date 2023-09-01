@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>517.jpg</filename>
+	<path>/home/robint01/yolov5/data/data1/images/517.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>disinfectant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>785</xmin>
+			<ymin>311</ymin>
+			<xmax>990</xmax>
+			<ymax>812</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>electric fan</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>599</xmin>
+			<ymin>628</ymin>
+			<xmax>1705</xmax>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+</annotation>

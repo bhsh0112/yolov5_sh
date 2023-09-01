@@ -1,0 +1,8 @@
+/home/robint01/yolov5/data/mydata/images/71.jpg
+/home/robint01/yolov5/data/mydata/images/41.jpg
+/home/robint01/yolov5/data/mydata/images/42.jpg
+/home/robint01/yolov5/data/mydata/images/26.jpg
+/home/robint01/yolov5/data/mydata/images/9.jpg
+/home/robint01/yolov5/data/mydata/images/8.jpg
+/home/robint01/yolov5/data/mydata/images/51.jpg
+/home/robint01/yolov5/data/mydata/images/33.jpg

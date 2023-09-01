@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>577.jpg</filename>
+	<path>/home/robint01/yolov5/data/data1/images/577.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>disinfectant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>935</xmin>
+			<ymin>310</ymin>
+			<xmax>1142</xmax>
+			<ymax>936</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>medicine bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1144</xmin>
+			<ymin>433</ymin>
+			<xmax>1352</xmax>
+			<ymax>943</ymax>
+		</bndbox>
+	</object>
+</annotation>

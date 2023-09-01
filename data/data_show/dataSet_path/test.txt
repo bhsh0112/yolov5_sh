@@ -1,0 +1,6 @@
+/home/robint01/yolov5_weed/data/data_show/images/21.jpg
+/home/robint01/yolov5_weed/data/data_show/images/59.jpg
+/home/robint01/yolov5_weed/data/data_show/images/12.jpg
+/home/robint01/yolov5_weed/data/data_show/images/25.jpg
+/home/robint01/yolov5_weed/data/data_show/images/7.jpg
+/home/robint01/yolov5_weed/data/data_show/images/36.jpg
